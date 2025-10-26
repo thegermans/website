@@ -1,0 +1,52 @@
+body {
+	background-color: #FFFFFF;
+	margin: 0pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000000;
+}
+
+a {
+	color: #000000;
+	text-decoration: underline;
+	font-size:14px;
+	font-weight: normal;
+}
+a:hover {
+	color: #000000;
+	font-weight: normal;
+	font-size:14px;
+}
+
+div#menu {
+	position: absolute;
+	width: 900px;
+	height: 600px;
+	left: 50%;
+	margin-top: 690px;
+	margin-left: -450px;
+	padding: 0px 0px 0px 0px;
+	margin-bottom: 0px;
+}		
+
+div#box {
+	height: 588px;
+	width: 900px;
+	position: absolute;
+	left: 50%;
+	margin-top: 100px;
+	margin-left: -450px;
+}	
+
+.backgroundim {
+	width: 900px;
+	height: 588px;
+	border: none;
+	position: absolute;
+	float: left;
+}
+
+.copyright {
+	font-size: 10px;
+	color: #BBBBBB;
+}
